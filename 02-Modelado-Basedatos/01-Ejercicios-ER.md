@@ -158,14 +158,3 @@
   - Un empleado puede tener cero o varios dependientes.
   - Cada dependiente pertenece a un solo empleado.
 
-## Resultado de Modelo E-R
-![Empresa](Ejercicio5.drawio.png)
-## Modelo Relacional
-![Empresa](Tablaejer5.1.drawio.png)
-![Empresa](Tablasejer5.2.drawio.png)
-
-6. Tarea
-## Resultado de Modelo E-R
-![Tarea](TareaEjercicio6.png)
-## Modelo Relacional
-![Tarea](Tabla6.jpeg)
