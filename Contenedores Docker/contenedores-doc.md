@@ -47,7 +47,7 @@ docker run -d --name Server-MariadbG1 -p 3343:3306 -e MARIADB_ROOT_PASSWORD=1234
 ```
 docker volume create v-postgresG1
 docker run -d --name Server-PostgresG1 -p 5455:5432 \
--e POSTGRES_PASSWORD=123456 \
+-e POSTGRES_PASSWORD=¿?=)(/&%$) \
 -v v-postgresG1:/var/lib/postgresql/data \
 bbb88
 ```
